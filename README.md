@@ -4,7 +4,7 @@ Hello there! My name is Mikhail Kolchar.
 
 📓 I’m currently self-learning to be a Data Science engineer;
 
-📘 I'm learning Python for Data Science, special frameworks and libraries such as NumPy, Pandas, Matplotlib, Seaborn;
+📘 I'm learning Python for Data Science, special frameworks and libraries such as NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn;
 
 🚀 Main Stack I would like:
 ---
