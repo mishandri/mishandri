@@ -2,9 +2,7 @@ Hello there! My name is Mikhail Kolchar.
 ---
 💻 Now I'm currently a system administrator (IT consultant) at the District Court: Windows Server 2003/2008/2008R2/2012R2/2019;
 
-📓 I’m currently self-learning to be a Data Science engineer;
-
-📘 I'm learning Python for Data Science, special frameworks and libraries such as NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn;
+📓 I’m currently self-learning (and not only) to become a Data Analyst / Data Engineer.
 
 🚀 Main Stack:
 ---
