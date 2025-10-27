@@ -1,8 +1,6 @@
 Hello there! My name is Mikhail Kolchar.
 ---
-💻 Now I'm currently a system administrator (IT consultant) at the District Court: Windows Server 2003/2008/2008R2/2012R2/2019;
-
-📓 I’m currently self-learning (and not only) to become a Data Analyst / Data Engineer.
+💻 Now I'm currently BI-analytics at company Denvic
 
 🚀 Main Stack:
 ---
