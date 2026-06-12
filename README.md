@@ -1,6 +1,6 @@
 Hello there! My name is Mikhail Kolchar.
 ---
-💻 Now I'm currently work as BI-analyst at Denvic
+💻 Now I'm currently work as Middle Data analyst at Excite Kit
 
 🚀 Main Stack:
 ---
